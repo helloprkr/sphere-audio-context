@@ -7,6 +7,7 @@
 [![Three.js](https://img.shields.io/badge/Three.js-0.162.0-green.svg)](https://threejs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.5.3-blue.svg)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-5.4.2-purple.svg)](https://vitejs.dev/)
+<img width="899" alt="Screenshot 2025-02-25 at 3 33 00 PM" src="https://github.com/user-attachments/assets/4648d3bb-df7b-43f0-b722-9d4257476c7b" />
 
 A robust boilerplate for building audio-reactive 3D visualizations with Three.js, Web Audio API, and React.
 
